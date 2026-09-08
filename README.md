@@ -5,5 +5,6 @@ lalu saya juga buat fitur hapus sederhana, dengan menginput "hapus" di dalam inp
 
 dan untu mengakhiri peminjaman, tinggal memasukkan "selesai" juga di input "buku" maka akan muncul struk daftar buku yang di pinjam
 
-berikut outputnya 
+berikut outputnya:
+
 <img width="799" height="1392" alt="terminal tyon" src="https://github.com/user-attachments/assets/1a8ba262-27c5-47b7-8a88-c46f084b6dd1" />
